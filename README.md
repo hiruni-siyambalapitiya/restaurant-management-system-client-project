@@ -174,7 +174,6 @@ The system was tested using:
 
 
 # Author
-
-**Hiruni Nimasha Siyambalapitiya**
+Group project
 
 
