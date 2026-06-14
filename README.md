@@ -1,6 +1,6 @@
 
 # restaurant-management-system-client-project
-GitHub Repository - KDY_2023_WD_G1 - Restaurant Management System
+
 
 # 🍽️ Restaurant Management System
 
