@@ -131,58 +131,6 @@ The proposed solution was a web-based Restaurant Management System developed usi
 | Version Control | Git & GitHub |
 | IDE | Visual Studio Code |
 
----
-
-# System Architecture
-
-![Architecture](diagrams/Architecture.png)
-
----
-
-# Use Case Diagram
-
-![Use Case](diagrams/UseCaseDiagram.png)
-
----
-
-# ER Diagram
-
-![ER Diagram](diagrams/ERDiagram.png)
-
----
-
-# Application Screenshots
-
-## Home Page
-
-![Homepage](screenshots/Homepage.png)
-
----
-
-## Dashboard
-
-![Dashboard](screenshots/Dashboard.png)
-
----
-
-## Restaurant Inventory
-
-![Inventory](screenshots/Inventory.png)
-
----
-
-## Reports
-
-![Reports](screenshots/Reports.png)
-
----
-
-## Order Summary
-
-![Order](screenshots/OrderSummary.png)
-
----
-
 # My Contributions
 
 As a team member, I contributed to the following areas:
