@@ -5,6 +5,7 @@
 # 🍽️ Restaurant Management System
 
  A full-stack Restaurant Management System developed using the MERN Stack to automate restaurant operations including customer ordering, inventory management, reporting, delivery, and staff administration.
+ 
  https://github.com/hiruni-siyambalapitiya/restaurant-management-system-client-project/blob/main/screenshots/first%20page.png
 
 ---
