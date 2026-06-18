@@ -16,6 +16,8 @@ This project was developed as a university software engineering project for a re
 
 The system replaces manual restaurant operations with an integrated digital platform that improves operational efficiency, inventory tracking, customer experience, and business reporting.
 
+https://github.com/AchinthaDavidson/Restaurant-Management-System-Admin-Panel.git
+
 ---
 
 # Business Problem
