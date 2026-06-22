@@ -1,22 +1,6 @@
 
 # restaurant-management-system-client-project
 
-<h2>📸 System Screenshots</h2>
-
-<p align="center">
-  <img src="./screenshots/first page.png" width="45%">
-  <img src="./screenshots/dashboard.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="./screenshots/menu.png" width="45%">
-  <img src="./screenshots/orders.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="./screenshots/billing.png" width="45%">
-</p>
-
 # 🍽️ Restaurant Management System
 
  A full-stack Restaurant Management System developed using the MERN Stack to automate restaurant operations including customer ordering, inventory management, reporting, delivery, and staff administration.
@@ -49,6 +33,22 @@ The restaurant faced several operational challenges:
 The proposed solution was a web-based Restaurant Management System developed using the MERN Stack.
 
 ---
+
+<h2>📸 System Screenshots</h2>
+
+<p align="center">
+  <img src="./screenshots/first page.png" width="45%">
+  <img src="./screenshots/dashboard.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/menu.png" width="45%">
+  <img src="./screenshots/orders.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/billing.png" width="45%">
+</p>
 
 # Objectives
 
