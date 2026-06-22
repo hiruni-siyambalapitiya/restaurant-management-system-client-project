@@ -38,7 +38,7 @@ The proposed solution was a web-based Restaurant Management System developed usi
 
 <p align="center">
   <img src="./screenshots/first page.png" width="45%">
-  <img src="./screenshots/dashboard.png" width="45%">
+  <img src="./screenshots/picture-2.jpg" width="45%">
 </p>
 
 <p align="center">
