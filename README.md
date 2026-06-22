@@ -1,6 +1,20 @@
 
 # restaurant-management-system-client-project
+<h2>📸 System Screenshots</h2>
 
+<p align="center">
+  <img src="./screenshots/login.png" width="45%">
+  <img src="./screenshots/dashboard.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/menu.png" width="45%">
+  <img src="./screenshots/orders.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/billing.png" width="45%">
+</p>
 
 # 🍽️ Restaurant Management System
 
