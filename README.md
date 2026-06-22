@@ -3,7 +3,7 @@
 <h2>📸 System Screenshots</h2>
 
 <p align="center">
-  <img src="./screenshots/login.png" width="45%">
+  <img src="./screenshots/first page.png" width="45%">
   <img src="./screenshots/dashboard.png" width="45%">
 </p>
 
