@@ -2,6 +2,9 @@
 # restaurant-management-system-client-project
 
 # 🍽️ Restaurant Management System
+<p align="center">
+  <img src="screenshots/first page.png" width="700"/>
+</p>
 
  A full-stack Restaurant Management System developed using the MERN Stack to automate restaurant operations including customer ordering, inventory management, reporting, delivery, and staff administration.
  
