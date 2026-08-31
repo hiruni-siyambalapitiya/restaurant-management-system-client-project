@@ -1,6 +1,11 @@
 
 # restaurant-management-system-client-project
 
+<p align="center">
+  <img src="images/banner.png" alt="Restaurant Management System Banner">
+</p>
+
+
 # 🍽️ Restaurant Management System
 <p align="center">
   <img src="screenshots/first page.png" width="700"/>
